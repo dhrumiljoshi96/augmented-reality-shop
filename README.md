@@ -12,3 +12,4 @@ The AR shop is an interactive shop where users can see the live demonstration of
 
 ![image](https://user-images.githubusercontent.com/20886645/143774264-48ee0c08-18e2-4b84-9af0-b60048742fd6.png)
 
+<img width="613" alt="Screenshot 2021-11-28 at 8 52 13 PM" src="https://user-images.githubusercontent.com/20886645/143774333-aaf29956-fefb-469a-b0a6-05c9adb362c8.png">
