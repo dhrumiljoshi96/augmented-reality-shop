@@ -18,4 +18,4 @@ Vertically and Horizontally Movable Object :
 <img width="613" alt="Screenshot 2021-11-28 at 8 52 13 PM" src="https://user-images.githubusercontent.com/20886645/143774333-aaf29956-fefb-469a-b0a6-05c9adb362c8.png">
 
 
-![Uploading Screenshot 2021-11-28 at 8.57.17 PM.png…]()
+<img width="597" alt="Screenshot 2021-11-28 at 8 57 17 PM" src="https://user-images.githubusercontent.com/20886645/143774549-1dab10a4-7b29-4244-aceb-721cd26337f9.png">
