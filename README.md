@@ -13,6 +13,8 @@ Vertically and Horizontally Movable Object :
 ![image](https://user-images.githubusercontent.com/20886645/143773730-ea8b9290-4a2d-4c60-9e8f-52e1c625bf4e.png)
 
 
+SIMULATION :
+
 <img width="613" alt="Screenshot 2021-11-28 at 8 51 40 PM" src="https://user-images.githubusercontent.com/20886645/143774586-f69a2237-0bdf-42d5-8fb6-398cf30cc115.png">
 
 
