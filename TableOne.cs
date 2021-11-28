@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class table_1 : MonoBehaviour {
+public class TableOne : MonoBehaviour {
 	private InstantTrackerController trackerScript;
 	private GameObject ButtonsParent;
 
