@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-public class myRotate2 : MonoBehaviour
+public class MyRotate : MonoBehaviour
 {
     float rotSpeed = 8;
 
