@@ -4,6 +4,8 @@ The emergence of virtual reality and augmented reality is constantly providing n
 
 The AR shop is an interactive shop where users can see the live demonstration of the object that they wish to purchase,choosing amongst a number of different kinds of objects by looking through their phone, enabling easier accessibility and a better understandability of the actual worth of the object that the user wishes to purchase.
 
+FOR A DETAILED UNDERSTANDING OF THE UNDERLYING ALGORITHM AND WORKING PLEASE REFER THE PROJECT REPORT IN THE project-report folder of this repository.
+
 SCREENSHOTS 
 
 Multiple Object Augmentation Scenario :
